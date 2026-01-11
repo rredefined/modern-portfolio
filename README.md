@@ -24,7 +24,7 @@ A modern, responsive developer portfolio for showcasing projects, skills, and on
 ## 🚀 Local Setup
 
 Clone the repository  
-`git clone <https://github.com/AeroXDevs/modern-portfolio>`
+`git clone <https://github.com/rredefined/modern-portfolio>`
 
 Move into the project directory  
 `cd <PROJECT_NAME>`
@@ -45,10 +45,9 @@ Build the project
 ---
 
 ## 👨‍💻 Developer
-AeroX Development  
-  hironull.lol  
+Eiro.tf  
 
 ---
 
 ## 💬 Support Server
-🔗 https://discord.gg/aerox
+🔗 https://dsc.gg/renderbyte
